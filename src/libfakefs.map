@@ -1,0 +1,6 @@
+FAKEFS_0.1 {
+    global:
+        ffs_*;
+    local:
+        *;
+};
